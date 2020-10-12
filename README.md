@@ -1,4 +1,4 @@
-### Hey, I'm Ryan 🍂 
+### Hey, I'm Ryan 🌴
 
 I'm an undergrad comp-sci student at University of Maryland, College Park 🐢 
 Just trying to learn and build whatever interests me at any given moment!
