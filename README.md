@@ -7,6 +7,7 @@ or just scroll by.
 
 ##
 
-###### 💡  Currently learning [rust](https://www.rust-lang.org/) by building a terminal-ui for twitter! It's memory-safety and it's type-system is pretty refreshing for a low-level language, so I'm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;enjoying it so far.
+###### 💡  
+Currently learning [rust](https://www.rust-lang.org/) by building a terminal-ui for twitter! It's memory-safety and it's type-system is pretty refreshing for a low-level language, so I'm enjoying it so far.
 
 
