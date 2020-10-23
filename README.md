@@ -7,5 +7,5 @@ or just scroll by.
 
 ##
 
-###### 💡  Currently learning [rust](https://www.rust-lang.org/) by building a mini-terminal-ui for twitter!
+###### :crab: Currently learning [rust](https://www.rust-lang.org/) by building a mini-terminal-ui for twitter!
 
