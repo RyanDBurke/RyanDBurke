@@ -6,4 +6,4 @@ or just scroll by.
 
 ##
 
-###### :crab: Currently learning rust by building a [mini-terminal-ui for twitter](https://github.com/RyanDBurke/mini-twitter-tui)!
+###### :crab: Currently learning rust by building a [mini-terminal-ui for twitter home timelines](https://github.com/RyanDBurke/mini-twitter-tui)!
