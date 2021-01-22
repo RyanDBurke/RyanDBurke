@@ -5,6 +5,3 @@ Just trying to learn and build whatever interests me at any given moment! I post
 here-and-there. Don't be afraid to pop in, **offer advice**, or just scroll by.
 
 ##
-
-###### :star: Currently learning C++
-###### :crab: Currently learning rust by building a [mini-terminal-ui for twitter home timelines](https://github.com/RyanDBurke/mini-twitter-tui)! [done]
